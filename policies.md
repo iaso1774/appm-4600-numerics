@@ -30,7 +30,8 @@ Prof. Hoefer's office hours:
 
 Riley Fisher's office hours (in ECCR 211):
 
-- TBD
+- Tuesdays 12:30 - 2:00 PM.
+- Thursdays 9:30 - 11:00 AM.
 
 ## Course Information
 See the separate [syllabus document](syllabus.md).
@@ -87,7 +88,7 @@ final project instead of a final exam.
 
 There will be weekly homeworks.  You are allowed to drop 1 homework,
 which will be done automatically.  Homework will be submitted via
-Gradescope.  See the [submission guidelines](submission_guidelines.md).
+Gradescope.  See the [submission guidelines](submission_guidelines.md)
 
 ## Grading
 
